@@ -1,0 +1,11 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [SC60224.PrjPcb]
+   Generated File[Pick Place for SC60224.txt]
+   Generated File[Pick Place for SC60224.csv]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 11:58:36 On 2020/5/8

@@ -1,0 +1,18 @@
+Altium Designer Pick and Place Locations
+C:\nonsystem\git\github\SC60224\SC60224\Project Outputs for SC60224\Pick Place for SC60224.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       08/05/20
+Time:       11:58
+Revision:   8a979a7147c65d9ff50d9574cd1602e35bbdbbbb
+Variant:    No variations
+Units used: mil
+
+Designator Comment   Layer    Footprint Center-X(mil) Center-Y(mil) Rotation Description     
+U1         SC60224   TopLayer SSOP-16   0.000mil      0.000mil      360      ""              
+P2         NC        TopLayer HDR1X2    365.000mil    0.000mil      90       "Header, 2-Pin" 
+P1         NC        TopLayer HDR1X6    255.000mil    0.000mil      90       "Header, 6-Pin" 
+C2         100nF/16V TopLayer C0402     -160.000mil   -135.000mil   180      Capacitor       
+C1         2.2uF/16V TopLayer C0603     170.000mil    -220.000mil   270      ""              
